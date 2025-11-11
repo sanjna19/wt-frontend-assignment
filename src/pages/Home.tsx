@@ -37,11 +37,6 @@ export const Home = () => {
           <li>TypeScript for type safety</li>
         </ul>
       </StyledBox>
-      <Box mt={3}>
-        <Button variant="contained" color="primary" size="large">
-          Get Started
-        </Button>
-      </Box>
     </StyledContainer>
   )
 }
